@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the gender drop-down Spinner -->
+    <string-array name="array_type_options">
+        <item>@string/type_unknown</item>
+        <item>@string/type_monitor</item>
+        <item>@string/type_pc</item>
+        <item>@string/type_headphone</item>
+    </string-array>
+
+
+</resources>
